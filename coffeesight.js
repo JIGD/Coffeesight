@@ -68,6 +68,7 @@ coffeesight.start = function(){
 	// set current scene active
 	director.replaceScene(scene);
 
+
 }
 
 
